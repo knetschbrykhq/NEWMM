@@ -1,0 +1,12 @@
+How to run
+Open folder with the bot in cmd
+cd <path to folder with script>
+Start
+node genMM.js
+final result will be like:
+
+[
+    {
+      "address": "x",
+      "privateKey": "x",
+      "mnemonic": "random world"
